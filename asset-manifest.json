@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/job-harbor/static/css/main.56ea5eb0.css",
+    "main.js": "/job-harbor/static/js/main.8df9c136.js",
+    "static/js/453.8ab44547.chunk.js": "/job-harbor/static/js/453.8ab44547.chunk.js",
+    "index.html": "/job-harbor/index.html",
+    "main.56ea5eb0.css.map": "/job-harbor/static/css/main.56ea5eb0.css.map",
+    "main.8df9c136.js.map": "/job-harbor/static/js/main.8df9c136.js.map",
+    "453.8ab44547.chunk.js.map": "/job-harbor/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56ea5eb0.css",
+    "static/js/main.8df9c136.js"
+  ]
+}
